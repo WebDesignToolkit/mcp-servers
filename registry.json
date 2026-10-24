@@ -1,0 +1,38 @@
+[
+  {
+    "resource_id": "chromedevtools-chrome-devtools-mcp",
+    "repository": "ChromeDevTools/chrome-devtools-mcp",
+    "upstream_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "status": "candidate",
+    "transport": "not-reviewed",
+    "privileges": "not-reviewed",
+    "installation": "review-upstream-docs-before-use"
+  },
+  {
+    "resource_id": "upstash-context7",
+    "repository": "upstash/context7",
+    "upstream_url": "https://github.com/upstash/context7",
+    "status": "candidate",
+    "transport": "not-reviewed",
+    "privileges": "not-reviewed",
+    "installation": "review-upstream-docs-before-use"
+  },
+  {
+    "resource_id": "microsoft-playwright-mcp",
+    "repository": "microsoft/playwright-mcp",
+    "upstream_url": "https://github.com/microsoft/playwright-mcp",
+    "status": "candidate",
+    "transport": "not-reviewed",
+    "privileges": "not-reviewed",
+    "installation": "review-upstream-docs-before-use"
+  },
+  {
+    "resource_id": "modelcontextprotocol-servers",
+    "repository": "modelcontextprotocol/servers",
+    "upstream_url": "https://github.com/modelcontextprotocol/servers",
+    "status": "candidate",
+    "transport": "not-reviewed",
+    "privileges": "not-reviewed",
+    "installation": "review-upstream-docs-before-use"
+  }
+]
